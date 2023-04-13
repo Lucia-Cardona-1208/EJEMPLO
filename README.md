@@ -11,5 +11,6 @@
 ![Image text](https://github.com/RadiaJoyG6/Healthysnack/blob/main/3.jpg)
 ![Image text](https://github.com/RadiaJoyG6/Healthysnack/blob/main/4.jpg)
 ![Image text](https://github.com/RadiaJoyG6/Healthysnack/blob/main/5.jpg)
-## Learn startup
-
+## Métodologías aplicadas al proyecto
+Learn startup
+![Image text](https://github.com/RadiaJoyG6/Healthysnack/blob/main/Metodolog%C3%ADas/Learn%20Startup.png)
