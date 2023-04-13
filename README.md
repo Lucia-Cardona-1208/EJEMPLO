@@ -14,3 +14,5 @@
 ## Métodologías aplicadas al proyecto
 * LEARN STARTUP
 ![Image text](https://github.com/RadiaJoyG6/Healthysnack/blob/main/Metodolog%C3%ADas/Learn%20Startup.png)
+* MODELO CANVAS
+![Image text](https://github.com/RadiaJoyG6/Healthysnack/blob/main/Metodolog%C3%ADas/Modelo%20de%20negocio%20-%20Healthy%20snack%20(1)_page-0001.jpg)
