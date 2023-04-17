@@ -1,4 +1,6 @@
 # Healthysnack
+## Problemática
+Situación en la que muchas veces en los hogares no se prepara a tiempo las loncheras de los niños, por lo que muchas veces se opta por comprar comida chatarra, alto contenido energético, en ácidos grasos saturados y trans, azúcar y sodio. Su consumo excesivo es dañino para la salud dado que incrementa el colesterol sanguíneo y favorece el desarrollo de la obesidad o  incluso no se lleva ningún tipo de lonchera.
 
 ## Historia de Usuarios
 ![Image text](https://github.com/RadiaJoyG6/Healthysnack/blob/main/Historia%20de%20usuarios/1.png)
