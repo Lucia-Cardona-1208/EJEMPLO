@@ -5,7 +5,7 @@ Situación en la que muchas veces en los hogares no se prepara a tiempo las lonc
 * Preparar y proponer Snack con alimentos saludables de alto valor nutricional y que entreguen una característica funcional sinérgica de pre y probióticos, antioxidantes y fibra.
 * Proporcionar estos snacks en una tienda accesible y cómoda para consumir y comprar.
 ## Funcionalidad
-ontamos con una pagina web HEALTHY SNACK  donde tenemos variedad de productos saludables de Snack para su lonchera.
+Contamos con una pagina web HEALTHY SNACK  donde tenemos variedad de productos saludables de Snack para su lonchera.
 Dando un clik a la siguiente pagina donde puedes comprar por categoría en tienda,física o virtual, variedad de snack en  promociones ,ofertas al stok del publico y nuevos productos en innovación al entretenimiento del publico.
 Ofrecemos:
 * sandwich
