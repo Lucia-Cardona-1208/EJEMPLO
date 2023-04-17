@@ -4,6 +4,16 @@ Situación en la que muchas veces en los hogares no se prepara a tiempo las lonc
 ## Objetivos
 * Preparar y proponer Snack con alimentos saludables de alto valor nutricional y que entreguen una característica funcional sinérgica de pre y probióticos, antioxidantes y fibra.
 * Proporcionar estos snacks en una tienda accesible y cómoda para consumir y comprar.
+## Funcionalidad
+ontamos con una pagina web HEALTHY SNACK  donde tenemos variedad de productos saludables de Snack para su lonchera.
+Dando un clik a la siguiente pagina donde puedes comprar por categoría en tienda,física o virtual, variedad de snack en  promociones ,ofertas al stok del publico y nuevos productos en innovación al entretenimiento del publico.
+Ofrecemos:
+* sandwich
+* bebidas
+* frutas y frutos secos
+* snack
+Cada producto tiene su precio, usas el botón rojo donde dice (añadir al carrito) para tus compras respectivas. También te damos la opción de ser parte de nuestro miembro para q tengas acceso a las promociones y ofertas del día y mediante un correo acerté llegar con sus respectivos precios en tendencia. 
+Cada mes se ira actualizando nuestros productos en venta ,con innovación y entretenimiento al publico consumidor y sumando puntos para su descuento por cada compra en HEALTHY SNACK.
 
 ## Historia de Usuarios
 ![Image text](https://github.com/RadiaJoyG6/Healthysnack/blob/main/Historia%20de%20usuarios/1.png)
