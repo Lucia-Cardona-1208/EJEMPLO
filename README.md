@@ -1,6 +1,10 @@
 # Healthysnack
 
-## OBJETIVOS
+## Problemática
+
+## Funcionalidad
+
+## Objetivos
 
 ## Historia de Usuarios
 ![Image text](https://github.com/RadiaJoyG6/Healthysnack/blob/main/Historia%20de%20usuarios/1.png)
