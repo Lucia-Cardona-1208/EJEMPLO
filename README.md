@@ -12,6 +12,7 @@ Ofrecemos:
 * bebidas
 * frutas y frutos secos
 * snack
+
 Cada producto tiene su precio, usas el botón rojo donde dice (añadir al carrito) para tus compras respectivas. También te damos la opción de ser parte de nuestro miembro para q tengas acceso a las promociones y ofertas del día y mediante un correo acerté llegar con sus respectivos precios en tendencia. 
 Cada mes se ira actualizando nuestros productos en venta, con innovación al publico consumidor y sumando puntos para su descuento por cada compra en HEALTHY SNACK.
 ## Historia de Usuarios
