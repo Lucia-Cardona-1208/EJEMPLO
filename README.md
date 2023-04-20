@@ -35,6 +35,11 @@ Cada mes se ira actualizando nuestros productos en venta, con innovación al pub
 * DESING THINKING
 [Link del documento]
 (https://docs.google.com/document/d/1xig9oxU_e3NLOAqr2exqcYV6XL7-VmWrQQLkYbuo32U/edit?usp=sharing)
+## Link Medium:
+* Post en Medium contando el proceso de investigación de tu usuario y como construyeron la plataforma.
+https://medium.com/@joyperlmanrg6/propuesta-de-healthy-snack-6ab2a4bf7075
+
+
 
 ## Enlace a la página:
 [Healthy Snack](http://www.healthysnackrjpg6.com.mialias.net/)
